@@ -1,5 +1,5 @@
 # Portfolio
 
-Github Started March 31th, 2023
+Github Started March 31, 2023
 
 
