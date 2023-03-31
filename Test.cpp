@@ -7,4 +7,4 @@ int main(){
   cout << "Test Success" << endl;
 
   return 0;
-{
+}
